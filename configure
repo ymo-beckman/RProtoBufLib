@@ -2857,7 +2857,7 @@ ac_compiler_gnu=$ac_cv_cxx_compiler_gnu
 
 
 #untar the lib
-BASEPBNAME="protobuf-3.8.0"
+BASEPBNAME="protobuf-3.19.4"
 PBTGZNAME=${BASEPBNAME}.tar.gz
 cd src
 if test -d ./${BASEPBNAME}; then
